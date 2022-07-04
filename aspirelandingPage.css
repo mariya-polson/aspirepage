@@ -1,0 +1,565 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+html {
+  height: 100%;
+}
+body {
+  font-family: Poppins, sans-serif;
+  min-height: 100%;
+  margin: 0;
+  overflow-x: auto;
+}
+/* -------------------------------------FIRST CONTAINER-------------------------------------------------- */
+.container1 {
+  display: flex;
+  flex-wrap: wrap;
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1083px;
+  background: transparent linear-gradient(241deg, #ba51d9 0%, #382780 100%) 0%
+    0% no-repeat padding-box;
+}
+/* -----------------------------------------TOP SECTION---------------------------------------------------- */
+.aspirelogo {
+  width: 193px;
+  height: 100px;
+  margin-top: 18px;
+  margin-left: 277px;
+}
+.navigation-bar {
+  left: 966px;
+  top: 39px;
+  width: 701px;
+  position: absolute;
+  text-decoration: none;
+}
+li {
+  display: inline;
+  padding: 10px;
+  color: white;
+}
+.navigation-bar a {
+  color: white;
+  text-decoration: none;
+}
+.employee-button {
+  width: 157px;
+  height: 40px;
+  color: white;
+  font-size: 1rem;
+  border-color: transparent;
+  background: transparent linear-gradient(256deg, #501769 0%, #382780 100%) 0%
+    0% no-repeat padding-box;
+}
+/* -------------------------------------BOTTOM SECTION----------------------------------------------------- */
+.first-dots {
+  width: 343px;
+  height: 283px;
+  position: absolute;
+  top: 209.16px;
+  left: 924px;
+}
+.man {
+  top: 297.3px;
+  left: 1009px;
+  width: 912px;
+  height: 785px;
+  position: absolute;
+}
+.container1-1 {
+  background-color: white;
+  height: 457px;
+  width: 855px;
+  top: 326px;
+  left: 277px;
+  position: absolute;
+}
+.para1 {
+  font-size: 2.5rem;
+  position: absolute;
+  margin: 0;
+  top: 326px;
+  left: 277px;
+  color: white;
+  font-weight: 100;
+}
+.para2 {
+  font-size: 6.25rem;
+  position: absolute;
+  height: 250px;
+  width: 855px;
+  top: 71px;
+  line-height: 105px;
+  margin: 0;
+  color: white;
+  font-weight: 100;
+}
+.para3 {
+  font-size: 2.5rem;
+  color: white;
+  width: 582px;
+  top: 260px;
+  position: absolute;
+}
+.book {
+  top: 407px;
+  width: 193px;
+  height: 50px;
+  font-size: 1.25rem;
+  position: absolute;
+  border: 1px solid #ffffff;
+  color: white;
+  background-color: transparent;
+  border-radius: 2px;
+}
+/* ---------------------------------------SECOND CONTAINER--------------------------------------------------------------- */
+.container2 {
+  display: flex;
+  flex-wrap: wrap;
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  background-color: #fcfaff;
+  height: 1110px;
+}
+.heading {
+  margin: 0;
+  font-weight: 100;
+  font-size: 3.75rem;
+  top: 1199px;
+  left: 774px;
+  position: absolute;
+}
+.about {
+  text-align: center;
+  position: absolute;
+  left: 678px;
+  top: 1298px;
+  line-height: 26px;
+}
+/* -------------------first expert---------------------- */
+.expert1 {
+  /* background-color: brown; */
+  justify-content: center;
+  text-align: center;
+  width: 343px;
+  height: 544px;
+  left: 422px;
+  top: 1415px;
+  position: absolute;
+}
+.expertstalk1 {
+  width: 343px;
+  height: 228px;
+  /* UI Properties */
+  background: #fcfaff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 30px 70px #8d34c429;
+  border-radius: 0px 0px 0px 5px;
+}
+.inverted-comma {
+  position: absolute;
+  top: 47px;
+  left: 82px;
+}
+.say1 {
+  position: absolute;
+  left: 83px;
+  top: 53px;
+}
+.playbutton {
+  position: absolute;
+  left: 153px;
+  top: 211px;
+}
+.oleg {
+  position: absolute;
+  top: 300px;
+  left: 127px;
+}
+.name1 {
+  position: absolute;
+  left: 99px;
+  top: 394px;
+}
+.position1 {
+  position: absolute;
+  width: 314px;
+  left: 18px;
+  top: 420px;
+}
+.linkedin {
+  position: absolute;
+  left: 153px;
+  /* top: 496.08px; */
+}
+/* ------------------------Second expert---------------------------------- */
+.expert2 {
+  /* background-color: brown; */
+  justify-content: center;
+  text-align: center;
+  width: 343px;
+  height: 544px;
+  left: 793px;
+  top: 1415px;
+  position: absolute;
+}
+.expertstalk2 {
+  width: 343px;
+  height: 228px;
+  /* UI Properties */
+  background: #fcfaff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 30px 70px #8d34c429;
+  border-radius: 0px 0px 0px 5px;
+}
+.inverted-comma {
+  position: absolute;
+  top: 47px;
+  left: 82px;
+}
+.say2 {
+  position: absolute;
+  left: 83px;
+  top: 53px;
+}
+.playbutton {
+  position: absolute;
+  left: 153px;
+  top: 211px;
+}
+.sunil {
+  position: absolute;
+  top: 300px;
+  left: 127px;
+}
+.name2 {
+  position: absolute;
+  left: 134px;
+  top: 394px;
+}
+.position2 {
+  position: absolute;
+  width: 314px;
+  left: 18px;
+  top: 420px;
+}
+.linkedin {
+  position: absolute;
+  left: 153px;
+  /* top: 496.08px; */
+}
+/* ---------------third expert--------------------- */
+.expert3 {
+  /* background-color: brown; */
+  justify-content: center;
+  text-align: center;
+  width: 343px;
+  height: 544px;
+  left: 1164px;
+  top: 1415px;
+  position: absolute;
+}
+.expertstalk3 {
+  width: 343px;
+  height: 228px;
+  /* UI Properties */
+  background: #fcfaff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 30px 70px #8d34c429;
+  border-radius: 0px 0px 0px 5px;
+}
+.inverted-comma {
+  position: absolute;
+  top: 47px;
+  left: 82px;
+}
+.say3 {
+  position: absolute;
+  left: 83px;
+  top: 53px;
+}
+.playbutton {
+  position: absolute;
+  left: 153px;
+  top: 211px;
+}
+.randall {
+  position: absolute;
+  top: 300px;
+  left: 127px;
+}
+.name3 {
+  position: absolute;
+  left: 134px;
+  top: 394px;
+}
+.position3 {
+  position: absolute;
+  width: 314px;
+  left: 18px;
+  top: 420px;
+}
+.linkedin {
+  position: absolute;
+  left: 153px;
+  /* top: 496.08px; */
+}
+/* =======================================Third container========================================================== */
+.container3 {
+  display: flex;
+  flex-wrap: wrap;
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  /* background-color: brown; */
+  height: 1103px;
+}
+.second-dots {
+  width: 261px;
+  height: 216px;
+  position: absolute;
+  top: 2352px;
+  left: 512px;
+}
+.cover-image {
+  width: 698px;
+  height: 922px;
+  top: 2412px;
+  position: absolute;
+}
+.para4 {
+  position: absolute;
+  font-size: 3.75rem;
+  font-weight: 100;
+  margin: 0;
+  left: 879px;
+  top: 2616px;
+}
+.para5 {
+  font-size: 1rem;
+  position: absolute;
+  top: 2700px;
+  left: 879px;
+  width: 642px;
+}
+/* -------------------logos--------------------------- */
+.apple {
+  width: 52px;
+  height: 69px;
+  margin-left: 773px;
+  margin-top: 662px;
+}
+.pearson {
+  width: 158px;
+  height: 69px;
+  margin-top: 662px;
+  margin-left: 70.72px;
+}
+.hottopic {
+  width: 158px;
+  height: 69px;
+  margin-top: 662px;
+  margin-left: 31.03px;
+}
+.fis {
+  width: 158px;
+  height: 69px;
+  margin-top: 662px;
+  margin-left: 28.8px;
+}
+.salesforce {
+  width: 73px;
+  height: 55px;
+  left: 873px;
+  margin-top: 750px;
+  position: absolute;
+}
+.standeredchartered {
+  width: 158px;
+  height: 69px;
+  position: absolute;
+  left: 995.21px;
+  margin-top: 743px;
+}
+.indiska {
+  width: 110px;
+  height: 58px;
+  position: absolute;
+  left: 1218px;
+  margin-top: 750px;
+}
+.agaci {
+  left: 1393px;
+  width: 134px;
+  height: 59px;
+  position: absolute;
+  margin-top: 744px;
+}
+/* ----------Elipse--------------- */
+.dot {
+  width: 106px;
+  height: 106px;
+  position: relative;
+  border-radius: 50%;
+  left: 634px;
+  background: #ff226f 0% 0% no-repeat padding-box;
+  box-shadow: 0px 20px 40px #ff1d7480;
+  margin-top: 640px;
+  display: inline-block;
+}
+.dot img {
+  align-self: center;
+  position: relative;
+  top: 21px;
+  left: 35px;
+  width: 40px;
+  height: 63px;
+}
+/* -------------------------------------fourth container--------------------------------------------- */
+.container4 {
+  display: flex;
+  flex-wrap: wrap;
+  top: 3228px;
+  left: 0px;
+  position: absolute;
+  width: 1920px;
+  height: 978px;
+  background: transparent linear-gradient(244deg, #744a58 0%, #352341 100%) 0%
+    0% no-repeat padding-box;
+}
+.third-dots {
+  width: 261px;
+  height: 216px;
+  position: absolute;
+  top: 101.37px;
+  left: 1022px;
+}
+.cover-image2 {
+  width: 835px;
+  height: 817px;
+  left: 1085px;
+  top: 160.84px;
+  position: absolute;
+}
+.contemporary {
+  font-size: 3.75rem;
+  left: 277px;
+  top: 170px;
+  line-height: 61px;
+  font-weight: 100;
+  position: absolute;
+  color: white;
+}
+.para6 {
+  font-size: 1.875rem;
+  font-weight: 100;
+  left: 277px;
+  top: 344px;
+  line-height: 36px;
+  position: absolute;
+  margin: auto;
+  color: white;
+}
+.para7 {
+  font-size: 0.875rem;
+  font-weight: 100;
+  margin: 0;
+  top: 435px;
+  left: 277px;
+  color: #e397b6;
+  position: absolute;
+}
+.para8 {
+  font-size: 1.25rem;
+  font-weight: lighter;
+  margin: 0;
+  top: 475.47px;
+  left: 277px;
+  position: absolute;
+  color: white;
+}
+.read {
+  width: 193px;
+  height: 50px;
+  left: 277px;
+  top: 636px;
+  font-size: 1.25rem;
+  position: absolute;
+  border: 1px solid #ffffff;
+  color: white;
+  background-color: transparent;
+  border-radius: 2px;
+}
+.arrow3 {
+  width: 50px;
+  height: 50px;
+  left: 277px;
+  top: 760px;
+  position: absolute;
+  border: 1px solid #ffffff;
+  color: white;
+  background-color: transparent;
+  border-radius: 2px;
+}
+.arrow4 {
+  width: 50px;
+  height: 50px;
+  left: 337px;
+  top: 760px;
+  position: absolute;
+  border: 1px solid #ffffff;
+  color: white;
+  background-color: transparent;
+  border-radius: 2px;
+}
+.leftarrowwhite {
+  width: 21px;
+  height: 13px;
+  position: absolute;
+  left: 292px;
+  top: 778px;
+}
+.leftarrowblack {
+  width: 21px;
+  height: 13px;
+  position: absolute;
+  left: 352px;
+  top: 778px;
+}
+/* ---------------------------------------footer--------------------------------------------------- */
+.footer {
+  position: absolute;
+  width: 947px;
+  left: 219px;
+  top: 4200px;
+  margin: 0;
+  height: 20px;
+  color: #968593;
+  font-size: 0.875rem;
+}
+.copyright {
+  color: #261a23;
+}
+li span {
+  color: #968593;
+}
+.region {
+  color: #968593;
+  left: 1135px;
+  top: 14px;
+  position: absolute;
+}
+.global {
+  color: #261a23;
+  position: absolute;
+  width: 100px;
+  left: 1202px;
+  top: 13px;
+}
+.icons {
+  position: absolute;
+  width: 111px;
+  left: 1311px;
+  top: 12px;
+}
+.icons img {
+  padding: 2px;
+}
